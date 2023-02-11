@@ -1,9 +1,9 @@
-👨🏻‍💻 ・Programmer/Roboticist
+:man_technologist_tone1:∙Tech Enthusiast
 
-👦🏻 ・He/Him
+:snake:∙Python & C 
 
-🎂・June 1
+:robot:∙Build Robots 
 
-💙 ・Blue forever
+:computer:∙Exploring Cutting-Edge Tech
 
-🇮🇳 ・Indian 5️⃣
+:rocket:∙Always Pushing Limits 

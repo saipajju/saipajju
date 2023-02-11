@@ -1,4 +1,4 @@
-👨‍💻:∙Tech Enthusiast
+👨‍💻∙Tech Enthusiast
 
 :snake:∙Python & C 
 

@@ -1,4 +1,4 @@
-:man_technologist_tone1:∙Tech Enthusiast
+👨‍💻:∙Tech Enthusiast
 
 :snake:∙Python & C 
 

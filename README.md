@@ -1,9 +1,1 @@
-👨‍💻∙Tech Enthusiast
-
-:snake:∙Python & C 
-
-:robot:∙Build Robots 
-
-:computer:∙Exploring Cutting-Edge Tech
-
-:rocket:∙Always Pushing Limits 
+Silent hunter of the night. My blades are sharp, and my skills are honed to perfection. Beware, for if you cross me, you will not see the dawn.

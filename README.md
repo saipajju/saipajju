@@ -10,10 +10,10 @@
 ---
 #### Discord
 
-<a href="https://discord.gg/FK7twff6HN"><img src="https://img.shields.io/discord/948853345450356796.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://discord.gg/FK7twff6HN"><img src="https://img.shields.io/discord/748053138354864229.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 
-[![](https://discord.c99.nl/widget/theme-3/948853345450356796.png)](https://discord.gg/FK7twff6HN)
+[![](https://discord.c99.nl/widget/theme-3/748053138354864229.png)](https://discord.gg/FK7twff6HN)
 
 
 ---

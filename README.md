@@ -10,7 +10,7 @@
 ---
 #### Discord
 
-<a href="https://discord.gg/FK7twff6HN"><img src="https://img.shields.io/discord/948853345450356796.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://discord.gg/FK7twff6HN"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA%22%20alt=%22Join%20Community%20Badge%22" alt="Join Community Badge"/></a>
 
 
 [![](https://discord.c99.nl/widget/theme-3/948853345450356796.png)](https://discord.gg/FK7twff6HN)

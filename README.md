@@ -1,4 +1,4 @@
-<h1 align="center"> Ayu Itz </h1>
+<h1 align="center"> saipajju </h1>
 
 ### I am saipajju, I am a developer and a Student.
 
@@ -21,7 +21,7 @@ Stats
 
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=ayush-py-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)](https://github.com/saipajju)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saipajjuv&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saipajju&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 

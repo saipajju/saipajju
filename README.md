@@ -2,7 +2,7 @@
 
 ### I am saipajju, I am a developer and a Student.
 
-- 🔭 I’m currently working on: **a project**
+- 🔭 I’m currently working on: **DevConnect™**
 - 🌱 I’m currently learning: **JS**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a [website](https://www.saipajju.tech)!**

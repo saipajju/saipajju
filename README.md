@@ -15,24 +15,6 @@
 
 [![](https://discord.c99.nl/widget/theme-3/948853345450356796.png)](https://discord.gg/FK7twff6HN)
 
-
----
-Stats
-
-[![Github Overview](https://github-readme-stats.vercel.app/api?username=saipajju&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)](https://github.com/saipajju)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saipajju&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
-<img src="https://github-profile-trophy.vercel.app/?username=saipajju&theme=juicyfresh&no-bg=true" />
-
----
-
-#### Misc: <br>
-##### Here's a joke for you:
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
 ##### Skills:
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" />
